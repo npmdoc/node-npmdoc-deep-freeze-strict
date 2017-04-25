@@ -1,6 +1,6 @@
 # npmdoc-deep-freeze-strict
 
-#### api documentation for  [deep-freeze-strict (v1.1.1)](https://github.com/jsdf/deep-freeze)  [![npm package](https://img.shields.io/npm/v/npmdoc-deep-freeze-strict.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-deep-freeze-strict) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-deep-freeze-strict.svg)](https://travis-ci.org/npmdoc/node-npmdoc-deep-freeze-strict)
+#### basic api documentation for  [deep-freeze-strict (v1.1.1)](https://github.com/jsdf/deep-freeze)  [![npm package](https://img.shields.io/npm/v/npmdoc-deep-freeze-strict.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-deep-freeze-strict) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-deep-freeze-strict.svg)](https://travis-ci.org/npmdoc/node-npmdoc-deep-freeze-strict)
 
 #### recursively Object.freeze() objects and functions, works in strict mode
 
